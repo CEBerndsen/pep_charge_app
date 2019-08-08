@@ -15,7 +15,7 @@ library(kableExtra)
 
 ## Amino acids and proteins
 
-*Amino acids* are one type of *biomolecule* that form chains called *proteins*. The 20 canonical amino acids are shown in Figure 1 with the three letter abbreviation for each amino acid. For more information on the 20 amino acids following this (link)[https://www.ncbi.nlm.nih.gov/books/NBK22379/].
+*Amino acids* are one type of *biomolecule* that form chains called *proteins*. The 20 canonical amino acids are shown in Figure 1 with the three letter abbreviation for each amino acid. For more information on the 20 amino acids following this [link](https://www.ncbi.nlm.nih.gov/books/NBK22379/).
 
 
 ```{r aapic, echo=FALSE, message=FALSE, warning=FALSE, fig.cap="The 20 canonical aminos acids and their 3 letter abbreviations"}

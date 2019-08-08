@@ -79,7 +79,7 @@ server <- function(input, output) {
             geom_hline(yintercept = 0) +
             geom_vline(xintercept = zero) +
             # get the color scale right
-            scale_color_gradient2() +
+            scale_color_gradient2(low = "red", mid = "grey55", high = "blue") +
             # make it look pretty
             scale_x_continuous(expand = c(0.01, 0.01)) +
             theme_bw() +
