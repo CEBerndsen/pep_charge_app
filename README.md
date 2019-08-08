@@ -3,4 +3,4 @@ A biochemistry app to help students calculate peptide/protein charge from sequen
 
 Written by C.E. Berndsen, 2019.
 
-Shiny.io link:
+Shiny.io link: https://berndsen.shinyapps.io/pep_charge_app/
