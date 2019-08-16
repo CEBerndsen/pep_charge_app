@@ -101,7 +101,7 @@ When the pH value is within 1 unit of the pK~A~ you will have to use the Henders
 
 $$ pH = pK_A + log\frac{base}{acid} $$
 
-Use the equation to calculate the fraction in the base or acid form (whichever is charged) and then multiply this fraction by the charge. If you need help with this equation see XXXX.
+Use the equation to calculate the fraction in the base or acid form (whichever is charged) and then multiply this fraction by the charge. If you need help with this equation see the [Henderson-Hasselbalch app](https://berndsen.shinyapps.io/HH_app/).
 
 
 ## pI value
